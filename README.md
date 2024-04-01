@@ -56,3 +56,4 @@
 6. Run the builder by double clicking the `inject` buttom
 7. enjoy the modd menu
 
+<img  src="img/menu.png">
